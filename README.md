@@ -7,5 +7,6 @@ Un blog increíble para el curso de Git y GitHub de Platzi
 - Todos los comandos de Git
 - El flujo de trabajo en GitHub
 - El correcto uso de las buenas prácticas
+- creditos luiss
 
 Y como un amable recordatorio: **Este readme.md es un chiste**. Diseñado como ejemplo.
