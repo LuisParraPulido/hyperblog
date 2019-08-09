@@ -51,6 +51,10 @@ body
     background: white;
     padding: 1em;
 }
+#foto
+{
+    text-align: center;
+}
 #footer
 {
     background: #777;
