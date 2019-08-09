@@ -9,5 +9,6 @@ Un blog increíble para el curso de Git y GitHub de Platzi
 - El correcto uso de las buenas prácticas
 - Creditos luis
 - Todos los comandos de Git
+- Buenos profesores
 
 Y como un amable recordatorio: **Este readme.md es un chiste**. Diseñado como ejemplo.
